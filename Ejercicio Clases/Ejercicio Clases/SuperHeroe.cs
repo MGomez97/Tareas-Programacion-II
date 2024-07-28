@@ -15,6 +15,7 @@
         SuperPoder = superPoder;
     }
 
+    // Imprimir
     public override string ToString()
     {
         return $"Nombre: {Nombre}\n" +

@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|solutionrelative:ejercicio clases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio clases\\ejercicio clases\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|solutionrelative:ejercicio clases\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio clases\\ejercicio clases\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|solutionrelative:ejercicio clases\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|c:\\users\\manue\\onedrive\\documentos\\manu\\ceutec\\programacion ii\\tareas-programacion-ii\\ejercicio clases\\ejercicio clases\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15E0514D-CC8E-4C47-BD18-E774651747DE}|Ejercicio Clases\\Ejercicio Clases.csproj|solutionrelative:ejercicio clases\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,25 +26,25 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SuperHeroe.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\SuperHeroe.cs",
               "RelativeDocumentMoniker": "Ejercicio Clases\\SuperHeroe.cs",
               "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\SuperHeroe.cs",
               "RelativeToolTip": "Ejercicio Clases\\SuperHeroe.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA7wBwAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T16:41:49.051Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SuperPoder.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\SuperPoder.cs",
               "RelativeDocumentMoniker": "Ejercicio Clases\\SuperPoder.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\SuperPoder.cs",
-              "RelativeToolTip": "Ejercicio Clases\\SuperPoder.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\SuperPoder.cs*",
+              "RelativeToolTip": "Ejercicio Clases\\SuperPoder.cs*",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T16:41:30.71Z",
@@ -56,9 +56,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio Clases\\Program.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\Program.cs",
-              "RelativeToolTip": "Ejercicio Clases\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAxwB8AAAAAAAAA",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Documentos\\Manu\\Ceutec\\Programacion II\\Tareas-Programacion-II\\Ejercicio Clases\\Ejercicio Clases\\Program.cs*",
+              "RelativeToolTip": "Ejercicio Clases\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T16:23:59.428Z",
               "EditorCaption": ""
