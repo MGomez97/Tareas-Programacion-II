@@ -1,0 +1,15 @@
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\bin\Debug\net8.0\Ejercicio Clases.exe
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\bin\Debug\net8.0\Ejercicio Clases.deps.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\bin\Debug\net8.0\Ejercicio Clases.runtimeconfig.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\bin\Debug\net8.0\Ejercicio Clases.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\bin\Debug\net8.0\Ejercicio Clases.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.sourcelink.json
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\refint\Ejercicio Clases.dll
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.pdb
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\Ejercicio Clases.genruntimeconfig.cache
+C:\Users\manue\OneDrive\Documentos\Manu\Ceutec\Programacion II\Tareas-Programacion-II\Ejercicio Clases\Ejercicio Clases\obj\Debug\net8.0\ref\Ejercicio Clases.dll
